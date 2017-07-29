@@ -2,7 +2,9 @@
 
 # 開発フロー
 
-# 
+# services
+
+- 一人一人が自分のおもしろいお話を投稿していくサービス
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
