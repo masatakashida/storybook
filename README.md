@@ -6,6 +6,12 @@
 
 - 一人一人が自分のおもしろいお話を投稿していくサービス
 
+# features
+
+- 管理画面(index/new/show/edit)
+-- ブログポスト
+-- ユーザー 
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
